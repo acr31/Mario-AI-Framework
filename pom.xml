@@ -3,7 +3,7 @@
     <groupId>uk.ac.cam.cl.dtg.teaching</groupId>
     <artifactId>mario-ai-framework</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <name>Mario-AI-Framework</name>
     <description>The Mario AI framework is a framework for using AI methods with a version of Super Mario Bros.
@@ -34,7 +34,7 @@
     <scm>
         <url>https://github.com/acr31/Mario-AI-Framework</url>
         <developerConnection>scm:git:git@github.com:acr31/Mario-AI-Framework.git</developerConnection>
-        <tag>mario-ai-framework-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
