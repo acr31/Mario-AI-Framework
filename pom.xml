@@ -1,11 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>uk.ac.cam.cl.dtg.teaching</groupId>
     <artifactId>mario-ai-framework</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Mario-AI-Framework</name>
     <description>The Mario AI framework is a framework for using AI methods with a version of Super Mario Bros.
@@ -36,7 +34,7 @@
     <scm>
         <url>https://github.com/acr31/Mario-AI-Framework</url>
         <developerConnection>scm:git:git@github.com:acr31/Mario-AI-Framework.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>mario-ai-framework-1.0.0</tag>
     </scm>
 
     <build>
